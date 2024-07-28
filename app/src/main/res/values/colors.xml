@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="beige">#f5eee6</color>
+    <color name="deepbeige">#dcc5ab</color>
+    <color name="textbeige">#b49979</color>
+    <color name="textdeepbeige">#897153</color>
+    <color name="lightpink">#f3d7ca</color>
+    <color name="pink">#e6a4b4</color>
+    <color name="pinkhover">#db8a9e</color>
+    <color name="deeppink">#c86b85</color>
+    <color name="deeppinkhover">#c05d79</color>
+    <color name="gray">#999999</color>
+</resources>
